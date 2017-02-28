@@ -8,6 +8,7 @@ import (
 type Point struct {
 	X int
 	Y int
+	Z int
 }
 
 func createPoint(x int, y int) *Point {
