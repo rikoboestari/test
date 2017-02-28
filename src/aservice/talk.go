@@ -3,6 +3,7 @@ package aservice
 //import "time"
 
 type Talk struct {
+	id int
 	talkId int
 	shopId int
 	productId int
